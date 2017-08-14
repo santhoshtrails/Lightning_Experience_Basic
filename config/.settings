@@ -1,0 +1,17 @@
+{
+    "projectName": "Lightning_Experience_Basics",
+    "username": "santhoshtrails@gmail.com",
+    "id": "ac76fac0-8143-11e7-aef9-bbf23f5f14bb",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na59.salesforce.com",
+    "workspace": "/Users/arenoslivane/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

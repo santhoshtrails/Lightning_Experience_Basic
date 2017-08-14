@@ -1,0 +1,70 @@
+[
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf4000000ARc0CAG"
+        },
+        "Id": "0Adf4000000ARc0CAG",
+        "AuraDefinitionBundleId": "0Abf400000093HWCAY",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf400000093HWCAY"
+            },
+            "DeveloperName": "UserBadgeCount"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf4000000ARc1CAG"
+        },
+        "Id": "0Adf4000000ARc1CAG",
+        "AuraDefinitionBundleId": "0Abf400000093HWCAY",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf400000093HWCAY"
+            },
+            "DeveloperName": "UserBadgeCount"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf4000000ARc2CAG"
+        },
+        "Id": "0Adf4000000ARc2CAG",
+        "AuraDefinitionBundleId": "0Abf400000093HXCAY",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf400000093HXCAY"
+            },
+            "DeveloperName": "UserBadgeList"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf4000000ARc3CAG"
+        },
+        "Id": "0Adf4000000ARc3CAG",
+        "AuraDefinitionBundleId": "0Abf400000093HXCAY",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf400000093HXCAY"
+            },
+            "DeveloperName": "UserBadgeList"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    }
+]
